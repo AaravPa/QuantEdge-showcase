@@ -2,6 +2,12 @@
 
 QuantEdge is a quantitative-trading product project focused on turning research workflows into a usable investor-facing experience.
 
+## Product map
+
+The private implementation is not in this repository. The public view is the surface map: an investor performance review, an authenticated ASP.NET Core API, and an admin workflow. The stated analytics set is 1,073 NQ trades.
+
+![QuantEdge public product map](docs/screenshots/surfaces.png)
+
 ## Public showcase boundary
 
 This repository is a portfolio overview, not a redistribution of the private implementation. The original `AaravPa/QuantEdge` repository is a private fork with no repository license, so its source and any employer- or team-specific material are intentionally excluded from this public showcase.
