@@ -16,7 +16,7 @@ These screenshots are from the running QuantEdge site. The application source st
 
 ## Public showcase boundary
 
-This repository is a portfolio overview, not a redistribution of the private implementation. The original `AaravPa/QuantEdge` repository is a private fork with no repository license, so its source and any employer- or team-specific material are intentionally excluded from this public showcase.
+This repository is a portfolio overview, not a redistribution of the private implementation. The source is maintained separately in the private [`AaravPa/QuantEdge-private`](https://github.com/AaravPa/QuantEdge-private) repository; any employer- or team-specific material is intentionally excluded from this public showcase.
 
 ## Verified project scope
 
